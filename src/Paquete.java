@@ -1,3 +1,5 @@
+//Código realizado en clase
+
 public class Paquete implements Comparable<Paquete>{
     private int tracking;
     private double peso;
